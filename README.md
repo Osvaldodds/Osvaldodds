@@ -10,9 +10,9 @@ Um pouco mais sobre mim:
 
 ### Skills
 
-![badge-python]https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-green)
+![badge-python](https://img.shields.io/badge/Python-⭐⭐⭐⭐⭐-green)
 
-![badge-python]https://img.shields.io/badge/Django-⭐⭐⭐⭐⭐-bluee)
+![badge-python](https://img.shields.io/badge/Django-⭐⭐⭐⭐⭐-bluee)
 
 
 ## Status
